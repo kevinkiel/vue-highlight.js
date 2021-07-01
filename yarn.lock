@@ -5647,9 +5647,9 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"highlight.js@npm:^10.7.2":
-  version: 10.7.2
-  resolution: "highlight.js@npm:10.7.2"
+"highlight.js@npm:^10.6.0":
+  version: 10.6.0
+  resolution: "highlight.js@npm:10.6.0"
   checksum: 8208e010011298abc7be9d7f69946a408d9a9b62f88000e76672aa53cee91399d188bc6a8c33cf41323e137e0e03ff8f16ac934bdc53673747658808ea62a7ac
   languageName: node
   linkType: hard
@@ -12827,7 +12827,7 @@ typescript@^4.2.4:
     detect-indent: ^6.0.0
     eslint: ^7.24.0
     eslint-config-gluons: ^6.1.0
-    highlight.js: ^10.7.2
+    highlight.js: ^10.6.0
     jest: ^26.6.3
     npm-run-all: ^4.1.5
     prettier: ^2.2.1
